@@ -1,0 +1,9 @@
+# .gitignore
+*.pyc
+__pycache__/
+venv/
+llm_security_tests.csv
+llm_security_test_report.html
+.idea/
+.DS_Store
+*.swp
